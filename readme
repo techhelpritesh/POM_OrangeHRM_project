@@ -1,0 +1,6 @@
+pip install selenium
+pip install pytest
+
+
+
+run project testScript open in terminal , and use this commnad :- pytest -vs
